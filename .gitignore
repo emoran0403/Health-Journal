@@ -4,3 +4,9 @@ node_modules/
 # production bundles
 dist/
 public/js/app.js
+
+# To-Do List
+TODO.txt
+
+# secrets
+.env
